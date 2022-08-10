@@ -1,0 +1,20 @@
+
+#title{
+    background-color: azure;
+}
+#logo{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+#landingtext{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+   
+}
+.container-fluid {
+    border: 2px solid black;
+}
+.navbar{
+    padding: 0;
+   }
